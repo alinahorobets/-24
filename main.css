@@ -1,0 +1,53 @@
+
+.conteiner{
+    max-width: 1170px;
+    margin: 0 auto;
+}
+
+.header{
+    padding-top: 40px;
+}
+
+.header_menu{
+    display: flex;
+    margin-right: 66px;
+
+}
+
+.nav-list{
+    display: flex;
+    justify-content: center;
+}
+.nav-list li{
+    list-style-type: none ;
+    margin-right: 0;
+}
+
+.nav-list a{
+    font-size: normal;
+    font-weight: normal;
+    font-size: 18px;
+    text-decoration: none;
+    color: black;
+}
+
+.nav_list{
+    color: black;
+}
+
+.nav__list{
+    color: black;
+}
+
+.list{
+      color: black;
+}
+
+.text{
+    display: flex;
+    justify-content: space-between;
+}
+
+.text li{
+    text-decoration: none;
+}
