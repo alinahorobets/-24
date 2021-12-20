@@ -46,8 +46,82 @@
 .text{
     display: flex;
     justify-content: space-between;
+   list-style-type: none;
+   margin-top: 0;
+
 }
 
 .text li{
     text-decoration: none;
+}
+
+.button{
+    margin: 0 auto;
+   list-style-type: none;
+   margin-top: 0;
+}
+
+.img{
+    font-weight: 900px;
+    margin: 0 auto;
+}
+
+.wrapper{
+    background: url('maxresdefault\ 1.jpg') no-repeat center center;
+    background-size: cover;
+    height: 500px;
+    text-align: center;
+     color: black;
+}
+
+.button{
+    max-width: 650px;
+    padding-top: 105px;
+    padding-left: 185px;
+}
+
+.button button{
+    width: 270px;
+    height: 60px;
+    color: white;
+    background: solid;
+    border: none;
+    font-size: 15px;
+}
+
+.art{
+    max-height: 490px;
+}
+
+.type h2 a{
+    color: white;
+    font-size: 40px;
+    text-transform: uppercase;
+    list-style-type: none;
+    text-decoration: none;
+}
+
+.button li{
+    border: white 1px solid;
+    max-width: 230px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    color: white;
+}
+
+.line{
+    width: 185px;
+    height: 55px;
+}
+
+.line input{
+    height: 54px;
+    width: 163px;
+    font-size: 16px;
+    line-height: 20px;
+    border: none;
+    background: white;
+    padding-left: 20px;
 }
